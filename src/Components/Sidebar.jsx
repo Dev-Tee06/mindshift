@@ -30,7 +30,7 @@ export default function Sidebar({ pageTitle = "Dashboard" }) {
       {/* Sidebar */}
       <aside
         className={`
-          fixed top-0 left-0 h-screen w-64
+          fixed top-0 left-0 h-full w-64
           bg-gradient-to-b from-indigo-950 via-slate-900 to-black
           border-r border-white/10
           px-6 py-8
