@@ -61,7 +61,7 @@ export default function Courses() {
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
-              className="text-3xl sm:text-4xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-emerald-400 to-indigo-400"
+              className="text-3xl sm:text-4xl pt-15 font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 via-emerald-400 to-indigo-400"
             >
               Explore MindShift Courses
             </motion.h1>
